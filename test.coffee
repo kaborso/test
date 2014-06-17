@@ -1,4 +1,3 @@
-class Pr
-class Test extends Pr
+class Test
   should_pass: ->
     foo
